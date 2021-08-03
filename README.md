@@ -15,4 +15,4 @@ C <br>
 **Enjoy programming:** <br>
 APIS <br>
 Discord Bots <br>
-Interactive PHP Sorts
+Interactive PHP w/ Database sorts
