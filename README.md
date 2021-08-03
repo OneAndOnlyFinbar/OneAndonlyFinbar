@@ -1,3 +1,5 @@
-# OneAndonlFinbar
+# OneAndonlyFinbar
 
-test
+START TRANSACTION;
+TRUNCATE brain.cells;
+COMMIT;
