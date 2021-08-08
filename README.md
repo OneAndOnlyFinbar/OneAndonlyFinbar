@@ -10,7 +10,7 @@ Javascript <br>
 HTML/CSS <br>
 PHP <br>
 C# <br>
-C <br>
+C (semi-fluent) <br>
 
 **Enjoy programming:** <br>
 APIS <br>
