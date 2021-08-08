@@ -3,7 +3,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OneAndonlyFinbar&theme=dark">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneAndonlyFinbar&theme=dark&layout=compact">
 
-Self taught and love learning new languages.
+I make things.. sometimes.. pretty lazy..
 
 **Languages:** <br>
 Javascript <br>
