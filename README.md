@@ -5,6 +5,8 @@
 
 I make things.. sometimes.. pretty lazy..
 
+https://fin-bar.xyz/
+
 **Languages:** <br>
 Javascript <br>
 HTML/CSS <br>
