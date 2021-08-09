@@ -1,6 +1,6 @@
 ## Welcome
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OneAndonlyFinbar&theme=dark">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OneAndonlyFinbar&theme=dark&include_all_commits=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneAndonlyFinbar&theme=dark&layout=compact">
 
 I make things.. sometimes.. pretty lazy..
