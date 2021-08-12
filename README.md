@@ -7,6 +7,8 @@ I make things.. sometimes.. pretty lazy..
 
 https://fin-bar.xyz/
 
+Proud to be an American ![🇺🇸](https://fin-bar.xyz/resources/usaflag.png)
+
 **Languages:** <br>
 Javascript <br>
 HTML/CSS <br>
