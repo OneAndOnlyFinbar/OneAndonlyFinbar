@@ -7,8 +7,6 @@ I make things.. sometimes.. pretty lazy..
 
 https://fin-bar.xyz/
 
-[Proud to be an American](https://www.youtube.com/watch?v=Q65KZIqay4E)
-
 **Languages:** <br>
 Javascript <br>
 HTML/CSS <br>
