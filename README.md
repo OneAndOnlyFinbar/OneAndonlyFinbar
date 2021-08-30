@@ -17,5 +17,5 @@ C (semi-fluent) <br>
 **Enjoy programming:** <br>
 APIS <br>
 Discord Bots <br>
-PHP Portals <br>
+Websites <br>
 Database Sorts
