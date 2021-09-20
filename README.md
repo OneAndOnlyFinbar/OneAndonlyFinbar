@@ -11,8 +11,7 @@ https://fin-bar.xyz/
 Javascript <br>
 HTML/CSS <br>
 PHP <br>
-C# <br>
-C (semi-fluent) <br>
+C#
 
 **Enjoy programming:** <br>
 APIS <br>
