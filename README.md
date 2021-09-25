@@ -16,5 +16,4 @@ C#
 **Enjoy programming:** <br>
 APIS <br>
 Discord Bots <br>
-Websites <br>
-Database Sorts
+Websites
