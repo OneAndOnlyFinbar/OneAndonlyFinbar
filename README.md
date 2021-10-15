@@ -3,7 +3,6 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OneAndonlyFinbar&theme=dark&include_all_commits=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneAndonlyFinbar&theme=dark&layout=compact">
 
-I make things.. sometimes.. pretty lazy..<br><br>
 <img width="20px" height="20px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png">
 Finbar#0001<br>
 <img width="20px" height="20px" src="https://icon2.cleanpng.com/20180606/pr/kisspng-hyperlink-computer-icons-link-bait-5b1774f993d015.2452423615282639296055.jpg">
