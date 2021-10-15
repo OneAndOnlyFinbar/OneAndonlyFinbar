@@ -12,7 +12,7 @@ HTML/CSS <br>
 PHP <br>
 C#
 
-**Enjoy programming:** <br>
-APIS <br>
+**Capabilities** <br>
+API'S <br>
 Discord Bots <br>
-Websites
+Websites <br>
