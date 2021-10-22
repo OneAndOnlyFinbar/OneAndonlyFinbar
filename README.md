@@ -1,5 +1,10 @@
 ## Welcome
 
+Hello! I'm an American self-taught fullstack freelance programmer with a functionality based workflow. I specialize in back end design and infrastructure with capabilities of working with on and with front end.
+
+##
+
+<br>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OneAndonlyFinbar&theme=dark&include_all_commits=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneAndonlyFinbar&theme=dark&layout=compact">
 
