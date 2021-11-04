@@ -2,6 +2,8 @@
 
 Hello! I'm an American self-taught fullstack freelance programmer with a functionality based workflow. I specialize in backend design and infrastructure with capabilities of working on and with a frontend.
 
+**CONTACT FOR COMMISSIONS: https://finbar.xyz/contact**
+
 ##
 
 <br>
@@ -9,8 +11,8 @@ Hello! I'm an American self-taught fullstack freelance programmer with a functio
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneAndonlyFinbar&theme=dark&layout=compact">
 
 Finbar#0001<br>
-https://fin-bar.xyz<br>
-finbar@fin-bar.xyz<br>
+https://finbar.xyz<br>
+finbar@finbar.xyz<br>
 <br>**Languages:** <br>
 Javascript <br>
 HTML/CSS <br>
