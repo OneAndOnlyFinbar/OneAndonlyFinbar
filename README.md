@@ -1,6 +1,6 @@
 ## Welcome
 
-Hello! I'm an American self-taught fullstack freelance programmer with a functionality based workflow. I specialize in backend design and infrastructure with capabilities of working on and with a frontend.
+Fullstack freelance programmer with a functionality based workflow. I specialize in backend design and infrastructure with capabilities of working on and with a frontend.
 
 **CONTACT FOR COMMISSIONS: https://finbar.xyz/**
 
