@@ -2,7 +2,7 @@
 
 Fullstack freelance programmer with a functionality based workflow. I specialize in backend design and infrastructure with capabilities of working on and with a frontend.
 
-**CONTACT FOR COMMISSIONS: https://finbar.xyz/**
+**CONTACT FOR COMMISSIONS: finbar@finbar.xyz**
 
 ##
 
