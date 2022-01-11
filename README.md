@@ -24,3 +24,12 @@ API'S <br>
 Discord Bots <br>
 Websites <br>
 Backend infrastructure
+
+# Personal Projects
+## json-simplified
+[npm](https://www.npmjs.com/package/json-simplified)<br>
+Database module which stores data in json.
+
+## TI-Basic.js
+[npm](https://www.npmjs.com/settings/finbar/packages)<br>
+Basic module which can write ti-basic from node.js
