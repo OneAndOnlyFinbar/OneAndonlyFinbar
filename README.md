@@ -5,7 +5,7 @@ Fullstack freelance programmer with a functionality based workflow. I specialize
 **CONTACT FOR COMMISSIONS: finbar@finbar.xyz**
 
 ##
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K47LTWF)
 <br>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OneAndonlyFinbar&theme=dark&include_all_commits=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneAndonlyFinbar&theme=dark&layout=compact">
@@ -26,6 +26,10 @@ Websites <br>
 Backend infrastructure
 
 # Personal Projects
+## SequelCSV
+[npm](https://www.npmjs.com/package/sequel-csv)<br>
+A package that allows you to run SQL command against a csv file, allowing it to act as a relational database.
+
 ## json-simplified
 [npm](https://www.npmjs.com/package/json-simplified)<br>
 Database module which stores data in json.
