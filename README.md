@@ -19,6 +19,10 @@ HTML/CSS <br>
 PHP <br>
 C#
 
+<br>**Learning:** <br>
+EJS<br>
+Java
+
 **Capabilities** <br>
 API'S <br>
 Discord Bots <br>
