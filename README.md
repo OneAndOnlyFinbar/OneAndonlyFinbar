@@ -17,10 +17,10 @@ finbar@finbar.xyz<br>
 Javascript <br>
 HTML/CSS <br>
 PHP <br>
-C#
+C#<br>
+EJS
 
 <br>**Learning:** <br>
-EJS<br>
 Java
 
 **Capabilities** <br>
