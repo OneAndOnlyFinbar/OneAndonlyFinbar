@@ -20,7 +20,7 @@ PHP <br>
 C#<br>
 EJS
 
-<br>**Learning:** <br>
+**Learning:** <br>
 Java
 
 **Capabilities** <br>
