@@ -13,21 +13,20 @@ Fullstack freelance programmer with a functionality based workflow. I specialize
 Finbar#0001<br>
 https://finbar.xyz<br>
 finbar@finbar.xyz<br>
+
 <br>**Languages:** <br>
 Javascript <br>
 HTML/CSS <br>
 PHP <br>
-C#<br>
-EJS
+C#
 
 **Learning:** <br>
 Java
 
-**Capabilities** <br>
-API'S <br>
-Discord Bots <br>
-Websites <br>
-Backend infrastructure
+**Technologies** <br>
+discord.js<br>
+express.js<br>
+ejs
 
 # Personal Projects
 ## SequelCSV
