@@ -26,7 +26,8 @@ Tailwind.css
 **Technologies** <br>
 discord.js<br>
 express.js<br>
-ejs
+ejs<br>
+Database integrations
 
 # Personal Projects
 ## SequelCSV
