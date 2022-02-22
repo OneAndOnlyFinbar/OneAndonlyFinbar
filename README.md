@@ -21,7 +21,7 @@ PHP <br>
 C#
 
 **Learning:** <br>
-Java
+Tailwind.css
 
 **Technologies** <br>
 discord.js<br>
