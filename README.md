@@ -18,16 +18,13 @@ finbar@finbar.xyz<br>
 Javascript <br>
 HTML/CSS <br>
 PHP <br>
-C#
-
-**Learning:** <br>
-Tailwind.css
+C# <br>
+T-SQL<br>
 
 **Technologies** <br>
 discord.js<br>
 express.js<br>
 ejs<br>
-Database integrations
 
 # Personal Projects
 ## SequelCSV
