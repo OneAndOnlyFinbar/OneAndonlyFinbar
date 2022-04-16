@@ -14,17 +14,27 @@ Finbar#0001<br>
 https://finbar.xyz<br>
 finbar@finbar.xyz<br>
 
-<br>**Languages:** <br>
-Javascript <br>
-HTML/CSS <br>
-PHP <br>
-C# <br>
-T-SQL<br>
+<br>**Languages**<br>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="16"> JavaScript<br>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png" height="16"> TypeScript<br>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="16"> HTML<br>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="16"> CSS<br>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="16"> PHP<br>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="16"> C#<br>
+SQL<br>
 
-**Technologies** <br>
+**Technologies**<br>
 discord.js<br>
 express.js<br>
 ejs<br>
+brain.js<br>
+TensorFlow.js<br>
+
+**Interests**<br>
+Machine Learning<br>
+Back-End Web Development<br>
+Discord Bot Development<br>
+Data Science<br>
 
 # Personal Projects
 ## SequelCSV
