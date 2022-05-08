@@ -20,7 +20,6 @@ finbar@finbar.xyz<br>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="16"> HTML<br>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="16"> CSS<br>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="16"> PHP<br>
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/csharp/csharp.png" height="16"> C#<br>
 SQL<br>
 
 **Technologies**<br>
@@ -29,6 +28,7 @@ express.js<br>
 ejs<br>
 brain.js<br>
 TensorFlow.js<br>
+TailWind CSS<br>
 
 **Interests**<br>
 Machine Learning<br>
