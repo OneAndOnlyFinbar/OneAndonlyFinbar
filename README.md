@@ -41,10 +41,6 @@ Data Science<br>
 [npm](https://www.npmjs.com/package/sequel-csv)<br>
 A package that allows you to run SQL command against a csv file, allowing it to act as a relational database.
 
-## json-simplified
-[npm](https://www.npmjs.com/package/json-simplified)<br>
-Database module which stores data in json.
-
 ## TI-Basic.js
 [npm](https://www.npmjs.com/settings/finbar/packages)<br>
 Basic module which can write ti-basic from node.js
