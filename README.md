@@ -1,6 +1,6 @@
 ## Welcome
 
-I'm a fullstack freelance programmer with a functionality based workflow. 
+I'm a fullstack freelance programmer with a functionality based workflow.
 
 **CONTACT FOR COMMISSIONS: finbar@finbar.xyz**
 
@@ -20,7 +20,7 @@ finbar@finbar.xyz<br>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png" height="16"> HTML<br>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="16"> CSS<br>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="16"> PHP<br>
-SQL<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="16"> SQL<br>
 
 **Technologies**<br>
 discord.js<br>
