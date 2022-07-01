@@ -21,20 +21,21 @@ finbar@finbar.xyz<br>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png" height="16"> CSS<br>
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/php/php.png" height="16"> PHP<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="16"> SQL<br>
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/lua/lua.png" height="16"> Lua<br>
 
 **Technologies**<br>
-discord.js<br>
-express.js<br>
-ejs<br>
-brain.js<br>
-TensorFlow.js<br>
-TailWind CSS<br>
+<img src="https://discord.js.org/static/djs_logo.png" height="16"> discord.js<br>
+<img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" height="16"> express.js<br>
+<img src="https://ejspr.com/app/uploads/2021/03/EJS-Monogram_Grass-Green_High-Res.png" height="16">ejs<br>
+<img src="https://brain.js.org/img/logo.svg" height="16"> brain.js<br>
+<img src="https://codelabs.developers.google.com/static/codelabs/tensorflowjs-object-detection/img/1aee0ede85885520.png" height="16"> TensorFlow.js<br>
+<img src="https://tailwindcss.com/_next/static/media/social-square.b622e290e82093c36cca57092ffe494f.jpg" height="16"> TailWind CSS<br>
 
 **Interests**<br>
 Machine Learning<br>
 Back-End Web Development<br>
 Discord Bot Development<br>
-Data Science<br>
+Data Engineering<br>
 
 # Personal Projects
 ## SequelCSV
