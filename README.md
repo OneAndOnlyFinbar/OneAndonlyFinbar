@@ -7,8 +7,8 @@ I'm a fullstack freelance programmer with a functionality based workflow.
 ##
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K47LTWF)
 <br>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OneAndonlyFinbar&theme=dark&include_all_commits=true">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneAndonlyFinbar&theme=dark&layout=compact">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OneAndonlyFinbar&theme=dark&include_all_commits=true&count_private=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneAndonlyFinbar&theme=dark&layout=compact&count_private=true&langs_count=10">
 
 Finbar#0001 (811751283555172433)<br>
 https://finbar.xyz<br>
