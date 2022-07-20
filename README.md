@@ -36,12 +36,3 @@ Machine Learning<br>
 Back-End Web Development<br>
 Discord Bot Development<br>
 Data Engineering<br>
-
-# Personal Projects
-## SequelCSV
-[npm](https://www.npmjs.com/package/sequel-csv)<br>
-A package that allows you to run SQL command against a csv file, allowing it to act as a relational database.
-
-## TI-Basic.js
-[npm](https://www.npmjs.com/settings/finbar/packages)<br>
-Basic module which can write ti-basic from node.js
