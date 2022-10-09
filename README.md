@@ -9,6 +9,7 @@ I'm a fullstack freelance programmer with a functionality based workflow.
 <br>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OneAndonlyFinbar&theme=dark&include_all_commits=true&count_private=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneAndonlyFinbar&theme=dark&layout=compact&count_private=true&langs_count=10">
+<img width="50%" align="right" src="http://144.172.70.188:4000/current/zzwa01lwc4wdt80dda2hdfnfu">
 
 Finbar#0901 (811751283555172433)<br>
 https://finbar.xyz<br>
