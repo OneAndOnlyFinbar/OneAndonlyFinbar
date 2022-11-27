@@ -12,7 +12,7 @@ I'm a fullstack freelance programmer with a functionality based workflow.
 <img width="50%" align="right" src="https://spotify-status.finbar.xyz/current/zzwa01lwc4wdt80dda2hdfnfu/">
 
 
-Finbar#0901 (811751283555172433)<br>
+Finbar#0001 (811751283555172433)<br>
 https://finbar.xyz<br>
 finbar@finbar.xyz<br>
 
