@@ -10,6 +10,7 @@ American based freelance fullstack developer.
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=OneAndonlyFinbar&theme=dark&include_all_commits=true&count_private=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OneAndonlyFinbar&theme=dark&layout=compact&count_private=true&langs_count=10">
 <img width="50%" align="right" src="https://spotify-status.finbar.xyz/current/zzwa01lwc4wdt80dda2hdfnfu/">
+<img width="50%" align="right" src="https://stackoverflow.com/users/flair/17525834.png?theme=clean"/>
 
 https://finbar.xyz<br>
 finbar@finbar.xyz<br>
